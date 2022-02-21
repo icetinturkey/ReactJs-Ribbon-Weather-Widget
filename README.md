@@ -16,5 +16,6 @@
    import RibbonWeather from "./RibbonWeather";
 ```
 ```sh
-   &lt;RibbonWeather owApiKey="e783e88878af2945da65e0277c371c82" latitude="51.5072" longitude="-0.1278" /&gt;
+   <RibbonWeather owApiKey="your api key" latitude="51.5072" longitude="-0.1278" />;
 ```
+## For api key; https://openweathermap.org/api
