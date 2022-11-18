@@ -6,7 +6,7 @@
 ###### Interactive
 ###### Free
 ## Sample;
-![Image](ribbonweather.vadi.info/screenshot1.jpg)
+![Image](https://ribbonweather.vadi.info/screenshot1.jpg)
 ## Test;
 ###### https://ribbonweather.vadi.info
 ## Usage;
