@@ -5,9 +5,8 @@
 ###### Mobile supported
 ###### Interactive
 ###### Free
-## Sample;
 ![Image](https://ribbonweather.vadi.info/screenshot1.jpg)
-## Test;
+## Preview;
 ###### https://ribbonweather.vadi.info
 ## Usage;
 ###### Copy 'RibbonWeather.js' file to your components folder
@@ -18,4 +17,4 @@
 ```sh
    <RibbonWeather owApiKey="your api key" latitude="51.5072" longitude="-0.1278" />;
 ```
-#### For api key; https://openweathermap.org/api
+#### ⚠️You can get new api key from [`https://openweathermap.org/api`](https://openweathermap.org/api).
