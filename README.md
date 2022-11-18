@@ -6,9 +6,9 @@
 ###### Interactive
 ###### Free
 ## Sample;
-###### ![Image of Yaktocat](https://ribbonweather.binkod.com.tr/sample.jpg)
+![Image](ribbonweather.vadi.info/screenshot1.jpg)
 ## Test;
-###### https://ribbonweather.binkod.com.tr
+###### https://ribbonweather.vadi.info
 ## Usage;
 ###### Copy 'RibbonWeather.js' file to your components folder
 ###### Then;
@@ -18,4 +18,4 @@
 ```sh
    <RibbonWeather owApiKey="your api key" latitude="51.5072" longitude="-0.1278" />;
 ```
-## For api key; https://openweathermap.org/api
+#### For api key; https://openweathermap.org/api
